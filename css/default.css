@@ -10,6 +10,9 @@
   margin: auto;
 }
 
+body {
+  background-color: black;
+}
 
 .button {
   align-items: center;
