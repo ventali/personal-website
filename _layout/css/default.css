@@ -1,0 +1,58 @@
+/* screen - 17_219 */
+
+.component-1 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  min-height: 900px;
+  padding: 0 28px;
+  width: 1440px;
+}
+
+.button {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-top: 22px;
+  padding: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.list {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.ventali-tan {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 445.0px;
+  margin-top: 30px;
+  min-height: 17px;
+  min-width: 67px;
+}
+
+.i-studied-physics-p {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 22px;
+  min-height: 170px;
+  width: 512px;
+}
+
+.span1 {
+  text-decoration: underline;
+}
+
+.copy-of-websites-4-1 {
+  height: 450px;
+  margin-left: 0.35px;
+  margin-top: 141px;
+  object-fit: cover;
+  width: 800px;
+}
